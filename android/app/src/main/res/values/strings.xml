@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trail Mileage Diary</string>
+
+    <string name="splash_title">TRAIL MILEAGE DIARY</string>
+    <string name="splash_subtitle">EVERY KILOMETRE YOU WALKED</string>
+    <string name="splash_hint">OPENING THE LOGBOOK</string>
+
+    <string name="menu_title_one">TRAIL</string>
+    <string name="menu_title_two">MILEAGE</string>
+    <string name="menu_title_three">DIARY</string>
+    <string name="menu_tagline">A HAND-WRITTEN RECORD OF WHERE YOUR BOOTS HAVE BEEN</string>
+    <string name="menu_hint">TAP A HIKE TO SEE THE FULL RECORD</string>
+    <string name="menu_empty_title">NO HIKES YET</string>
+    <string name="menu_empty_subtitle">YOUR FIRST ENTRY IS ONE TAP AWAY</string>
+
+    <string name="game_title">NEW HIKE</string>
+    <string name="game_step">1 / 1</string>
+    <string name="field_trail_name">TRAIL NAME</string>
+    <string name="field_trail_hint">WHERE DID YOU WALK</string>
+    <string name="field_distance">DISTANCE</string>
+    <string name="field_elevation">ELEVATION GAIN</string>
+    <string name="field_duration">DURATION</string>
+    <string name="field_notes">NOTES</string>
+    <string name="section_weather">WEATHER</string>
+    <string name="section_difficulty">DIFFICULTY</string>
+    <string name="section_photos">PHOTOS</string>
+    <string name="section_notes">NOTES</string>
+    <string name="section_gear">GEAR</string>
+    <string name="photo_add">ADD</string>
+    <string name="gear_attach">ATTACH A GEAR LIST</string>
+    <string name="value_none">NONE</string>
+    <string name="msg_save_failed">COULD NOT SAVE THIS HIKE</string>
+
+    <string name="result_title">HIKE LOGGED</string>
+    <string name="result_hint">SAVED TO THIS DEVICE ONLY</string>
+
+    <string name="library_title">TRAIL LIBRARY</string>
+    <string name="library_hint">TAP A TRAIL TO START IT AGAIN</string>
+    <string name="library_empty_title">NO SAVED TRAILS YET</string>
+    <string name="library_empty_subtitle">SAVE A HIKE AND THE TRAIL LANDS HERE</string>
+
+    <string name="totals_title">YEAR TOTALS</string>
+    <string name="totals_months">MONTH BY MONTH</string>
+    <string name="totals_empty">LOG YOUR FIRST HIKE</string>
+
+    <string name="gear_title">GEAR CHECKLIST</string>
+
+    <string name="detail_title">HIKE RECORD</string>
+    <string name="detail_missing">THIS RECORD IS GONE</string>
+
+    <string name="settings_title">SETTINGS</string>
+    <string name="settings_units">UNITS</string>
+    <string name="settings_theme">THEME</string>
+    <string name="settings_export">LOCAL EXPORT</string>
+    <string name="settings_clear">CLEAR DATA</string>
+    <string name="settings_clear_hint">REMOVES EVERY HIKE AND TRAIL FROM THIS DEVICE</string>
+    <string name="settings_footer">ALL DATA STAYS ON THIS DEVICE · NO ACCOUNT · NO CLOUD</string>
+    <string name="theme_parchment">PARCHMENT</string>
+    <string name="theme_dusk">DUSK</string>
+
+    <string name="cta_new_hike">START NEW HIKE</string>
+    <string name="cta_save_hike">SAVE HIKE</string>
+    <string name="cta_log_again">LOG AGAIN</string>
+    <string name="cta_menu">MENU</string>
+    <string name="cta_view_hike">VIEW HIKE</string>
+    <string name="cta_trails">TRAILS</string>
+    <string name="cta_totals">TOTALS</string>
+    <string name="cta_gear">GEAR</string>
+    <string name="cta_settings">SETTINGS</string>
+    <string name="cta_reset_list">RESET LIST</string>
+    <string name="cta_attach_list">ATTACH THIS LIST</string>
+    <string name="cta_open_library">OPEN TRAIL LIBRARY</string>
+    <string name="cta_export">EXPORT TO TEXT</string>
+    <string name="cta_copy">COPY</string>
+    <string name="cta_close">CLOSE</string>
+    <string name="cta_delete">DELETE</string>
+    <string name="cta_cancel">CANCEL</string>
+    <string name="cta_clear_data">CLEAR DATA</string>
+
+    <string name="stat_year_distance">THIS YEAR</string>
+    <string name="stat_year_climb">CLIMBED</string>
+    <string name="stat_distance">DISTANCE</string>
+    <string name="stat_climb">CLIMB</string>
+    <string name="stat_boots">BOOTS</string>
+    <string name="stat_hikes">HIKES</string>
+    <string name="stat_longest">LONGEST</string>
+    <string name="stat_biggest_climb">BIGGEST CLIMB</string>
+
+    <string name="weather_sun">SUN</string>
+    <string name="weather_cloud">CLOUD</string>
+    <string name="weather_rain">RAIN</string>
+    <string name="weather_wind">WIND</string>
+    <string name="weather_snow">SNOW</string>
+
+    <string name="unit_km">KM</string>
+    <string name="unit_mi">MI</string>
+    <string name="unit_m">M</string>
+    <string name="unit_ft">FT</string>
+    <string name="unit_time">TIME</string>
+
+    <string name="dialog_delete_title">DELETE THIS HIKE</string>
+    <string name="dialog_delete_message">%1$s will be removed from the logbook for good.</string>
+    <string name="dialog_clear_title">CLEAR THE LOGBOOK</string>
+    <string name="dialog_clear_message">Every hike and trail stored on this device will be erased.</string>
+    <string name="dialog_export_title">PLAIN TEXT EXPORT</string>
+    <string name="export_header">TRAIL MILEAGE DIARY</string>
+    <string name="settings_export_hint">%1$d HIKES READY TO COPY</string>
+
+    <string name="state_ready">READY TO SAVE</string>
+    <string name="state_incomplete">TRAIL NAME AND DISTANCE NEEDED</string>
+    <string name="state_difficulty">DIFFICULTY %1$d OF 5</string>
+
+    <string name="cd_logo">Trail Mileage Diary emblem</string>
+    <string name="cd_compass">Compass</string>
+    <string name="cd_trail_marker">Trail signpost</string>
+    <string name="cd_gear_pack">Gear pack</string>
+    <string name="cd_hike_photo">Hike photo</string>
+    <string name="cd_weather">Weather mark</string>
+    <string name="cd_back">Back</string>
+    <string name="cd_delete">Delete hike</string>
+
+    <string name="fmt_measure">%1$s %2$s</string>
+    <string name="fmt_meta">%1$s %2$s · %3$s</string>
+    <string name="fmt_duration_hm">%1$d H %2$d MIN</string>
+    <string name="fmt_duration_m">%1$d MIN</string>
+    <string name="fmt_date">%1$d %2$s %3$d</string>
+    <string name="fmt_trail_summary">%1$d VISITS · %2$s %3$s</string>
+    <string name="fmt_export_row">%1$s · %2$s · %3$s %4$s · %5$s %6$s · %7$s</string>
+    <string name="gear_packed">%1$d / %2$d PACKED</string>
+
+    <string-array name="month_short">
+        <item>JAN</item>
+        <item>FEB</item>
+        <item>MAR</item>
+        <item>APR</item>
+        <item>MAY</item>
+        <item>JUN</item>
+        <item>JUL</item>
+        <item>AUG</item>
+        <item>SEP</item>
+        <item>OCT</item>
+        <item>NOV</item>
+        <item>DEC</item>
+    </string-array>
+
+    <string-array name="month_initial">
+        <item>J</item>
+        <item>F</item>
+        <item>M</item>
+        <item>A</item>
+        <item>M</item>
+        <item>J</item>
+        <item>J</item>
+        <item>A</item>
+        <item>S</item>
+        <item>O</item>
+        <item>N</item>
+        <item>D</item>
+    </string-array>
+</resources>
